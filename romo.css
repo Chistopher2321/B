@@ -64,7 +64,7 @@
     }
     
     .imagen{  
-        background: url(matica.jpeg);
+        background: url(imagenes/matica.jpeg);
         width: 1340px;
         height: 594px;
         background-repeat: no-repeat;
@@ -192,7 +192,7 @@
         }
         
         .imagen{  
-            background: url(matica.jpeg);
+            background: url(imagenes/matica.jpeg);
             background-repeat: no-repeat;
             width: 1340px;
             height: 594px;
